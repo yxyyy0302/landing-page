@@ -2,6 +2,8 @@
 
 Welcome to my personal landing page repository! This project showcases some of my Computer Science skills and personal interests.
 
+Page Link: https://yxyyy0302.github.io/landing-page/
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
